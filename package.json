@@ -1,7 +1,7 @@
 {
   "name": "passport_sequelize_boiler_plate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Boilerplate code for a front end built with bootstrap and handlebars... And a backend built with mySQL and Node",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
