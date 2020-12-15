@@ -15,7 +15,7 @@ HTML, CSS, Javascript (ES6), Bootswatch, Node.js, Express, Passport, MySQL, Sequ
 
 ## Installation
 
-To install necessary dependencies, run the following command:
+To install necessary dependencies, run the following command in BOTH the client folder which contains React AND the root folder where server.js is located:
 
 ```
 npm install
